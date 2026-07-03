@@ -5,3 +5,5 @@ with the most popular Git operations.
 fsd sd 
 sa 
 sa 
+sa 
+dsa 
